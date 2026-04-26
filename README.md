@@ -28,11 +28,16 @@ Debugging is time-consuming. BugSage simplifies this by:
 
 ## 📁 Project Structure
 BugSage/
+
 ├── Backend/
+
 ├── Frontend/
+
 ├── .gitignore
+
 └── README.md
 
+    
 
 ##⚙️ Setup
 
@@ -44,20 +49,26 @@ cd BugSage
 ```
 
 ## 2.SETUP FRONTEND
-cd frontend
+cd frontend 
+
 npm install
+
 npm run dev
 
 ## 3.SETUP BACKEND
 cd backend
+
 npm install
+
 npm run dev
 
 ## Environment Variables
+
 GEMINI_API_KEY=your_gemini_api_key
 GEMINI_MODEL=gemini-2.5-flash
 
 ##🧑‍💻 Usage
+
 Open the app in your browser at http://localhost:5173
 Paste your code into the editor
 Click Detect Bugs
