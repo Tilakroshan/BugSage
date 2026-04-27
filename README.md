@@ -1,3 +1,4 @@
+
 # 🐞 BugSage — AI Bug Detection Assistant
 
 BugSage is a full-stack AI-powered tool that helps developers detect bugs in code and receive intelligent suggestions for fixing them.
@@ -74,3 +75,7 @@ Open the app in your browser at http://localhost:5173
 Paste your code into the editor
 Click Detect Bugs
 View AI-generated bug reports and fix suggestions
+
+## BugSage UI
+
+<img width="1503" height="985" alt="Screenshot 2026-04-27 221750" src="https://github.com/user-attachments/assets/987447e0-5b7c-4bfc-9a98-2a782df6bcbb" />
